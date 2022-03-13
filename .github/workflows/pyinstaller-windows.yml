@@ -22,4 +22,3 @@ jobs:
       with:
         name: my-exe
         path: src/dist/windows # or path/to/artifact
-
